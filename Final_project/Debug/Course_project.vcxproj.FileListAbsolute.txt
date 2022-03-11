@@ -1,0 +1,6 @@
+D:\Projects Visual Studio\Course_project\Debug\Course_project.exe
+C:\Users\Роман\AppData\Local\Temp\Rar$DRa9104.34809\Course_project23\Debug\Course_project.exe
+C:\Users\Роман\AppData\Local\Temp\Rar$DRa9104.34809\Course_project23\Debug\Course_project.pdb
+C:\Users\Даниил\AppData\Local\Temp\Rar$DRa9988.39793\Final_project\Debug\Final_project.exe
+C:\Users\Даниил\AppData\Local\Temp\Rar$DRa9988.39793\Final_project\Debug\Final_project.pdb
+C:\Users\User\AppData\Local\Temp\Rar$DRa0.690\Final_project\Debug\Final_project.exe

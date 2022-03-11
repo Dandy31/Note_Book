@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Course_project.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(517,5): warning MSB8029: Промежуточный каталог или каталог выхода не может располагаться во временном каталоге, потому что это может стать причиной проблем с добавочной сборкой.
+  main.cpp
+C:\Users\User\AppData\Local\Temp\Rar$DRa0.690\Final_project\main.cpp(10,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\AppData\Local\Temp\Rar$DRa0.690\Final_project\main.cpp(64,32): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\User\AppData\Local\Temp\Rar$DRa0.690\Final_project\main.cpp(64,65): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\User\AppData\Local\Temp\Rar$DRa0.690\Final_project\main.cpp(158,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\AppData\Local\Temp\Rar$DRa0.690\Final_project\main.cpp(224,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\AppData\Local\Temp\Rar$DRa0.690\Final_project\main.cpp(303,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\AppData\Local\Temp\Rar$DRa0.690\Final_project\main.cpp(360,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\AppData\Local\Temp\Rar$DRa0.690\Final_project\main.cpp(435,15): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\User\AppData\Local\Temp\Rar$DRa0.690\Final_project\main.cpp(501,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\AppData\Local\Temp\Rar$DRa0.690\Final_project\main.cpp(515,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\AppData\Local\Temp\Rar$DRa0.690\Final_project\main.cpp(560,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\AppData\Local\Temp\Rar$DRa0.690\Final_project\main.cpp(608,19): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\User\AppData\Local\Temp\Rar$DRa0.690\Final_project\main.cpp(818,21): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\User\AppData\Local\Temp\Rar$DRa0.690\Final_project\main.cpp(845,16): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\User\AppData\Local\Temp\Rar$DRa0.690\Final_project\main.cpp(49): warning C4715: check_bool: значение возвращается не при всех путях выполнения
+  Course_project.vcxproj -> C:\Users\User\AppData\Local\Temp\Rar$DRa0.690\Final_project\Debug\Final_project.exe

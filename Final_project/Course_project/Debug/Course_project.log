@@ -1,0 +1,17 @@
+﻿  main.cpp
+D:\Projects Visual Studio\Course_project\main.cpp(10,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects Visual Studio\Course_project\main.cpp(64,32): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\Projects Visual Studio\Course_project\main.cpp(64,65): warning C4018: >: несоответствие типов со знаком и без знака
+D:\Projects Visual Studio\Course_project\main.cpp(159,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects Visual Studio\Course_project\main.cpp(225,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects Visual Studio\Course_project\main.cpp(304,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects Visual Studio\Course_project\main.cpp(360,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects Visual Studio\Course_project\main.cpp(435,15): warning C4018: >: несоответствие типов со знаком и без знака
+D:\Projects Visual Studio\Course_project\main.cpp(501,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects Visual Studio\Course_project\main.cpp(515,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects Visual Studio\Course_project\main.cpp(559,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects Visual Studio\Course_project\main.cpp(607,19): warning C4018: >: несоответствие типов со знаком и без знака
+D:\Projects Visual Studio\Course_project\main.cpp(817,21): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\Projects Visual Studio\Course_project\main.cpp(844,16): warning C4018: >: несоответствие типов со знаком и без знака
+D:\Projects Visual Studio\Course_project\main.cpp(49): warning C4715: check_bool: значение возвращается не при всех путях выполнения
+  Course_project.vcxproj -> D:\Projects Visual Studio\Course_project\Debug\Course_project.exe
